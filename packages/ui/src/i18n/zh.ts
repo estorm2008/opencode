@@ -32,6 +32,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "上一个文件",
   "ui.sessionReviewV2.nextFile": "下一个文件",
   "ui.sessionReviewV2.diffView": "差异视图",
+  "ui.sessionReviewV2.refreshFiles": "刷新文件",
   "ui.sessionReviewV2.empty.noGit.title": "无已跟踪的变更",
   "ui.sessionReviewV2.empty.noGit.description": "在此项目中跟踪、审查和撤销更改",
   "ui.sessionReviewV2.empty.noGit.action": "创建 Git 仓库",

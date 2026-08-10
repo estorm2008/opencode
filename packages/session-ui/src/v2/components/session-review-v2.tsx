@@ -51,6 +51,7 @@ export type SessionReviewV2SidebarProps = {
   filterControls?: string
   filterActiveDescendant?: string
   filterExpanded?: boolean
+  onRefresh?: () => void
   width?: number
   onWidthChange?: (width: number) => void
   minWidth?: number
@@ -87,6 +88,20 @@ export function SessionReviewV2Sidebar(props: SessionReviewV2SidebarProps) {
             {props.stats}
           </div>
           <div data-slot="session-review-v2-sidebar-filter">
+            <Show when={props.onRefresh}>
+              <div data-slot="session-review-v2-sidebar-refresh">
+                <TooltipV2 value={i18n.t("ui.sessionReviewV2.refreshFiles")}>
+                  <IconButtonV2
+                    variant="ghost"
+                    size="small"
+                    class="session-review-v2-sidebar-refresh-button"
+                    aria-label={i18n.t("ui.sessionReviewV2.refreshFiles")}
+                    onClick={() => props.onRefresh?.()}
+                    icon={<Icon name="refresh" />}
+                  />
+                </TooltipV2>
+              </div>
+            </Show>
             <TextInputV2
               type="search"
               value={props.filter}

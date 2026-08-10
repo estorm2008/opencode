@@ -107,6 +107,7 @@ export function SessionFileBrowserTab(props: {
           filterControls={resultsID}
           filterActiveDescendant={highlighted() ? optionID(highlighted()!) : undefined}
           filterExpanded={query().length > 0 && files().length > 0}
+          onRefresh={() => file.tree.refreshAll()}
           width={props.state.sidebarWidth()}
           onWidthChange={props.state.resizeSidebar}
         >

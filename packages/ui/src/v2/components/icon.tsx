@@ -137,6 +137,10 @@ const icons = {
     viewBox: "0 0 16 16",
     body: `<path d="M13.5554 10.4445V13.5556C13.5554 13.5556 12.7599 13.5556 11.7777 13.5556H4.22211C3.23989 13.5556 2.44434 13.5556 2.44434 13.5556V10.4445M4.88878 5.55557L7.99989 2.44446L11.111 5.55557M7.99989 2.44446L7.99989 9.11112" stroke="currentColor"/>`,
   },
+  refresh: {
+    viewBox: "0 0 20 20",
+    body: `<path d="M17.5 10a7.5 7.5 0 1 1-7.5-7.5c2.1 0 4.11 0.83 5.62 2.28L17.5 6.67M17.5 2.5v4.17h-4.17" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>`,
+  },
   reset: {
     viewBox: "0 0 20 20",
     body: `<path d="M5.83333 4.16406L2.5 7.4974L5.83333 10.8307M3.33333 7.4974H17.9167V15.4141H10" stroke="currentColor" stroke-linecap="square"/>`,

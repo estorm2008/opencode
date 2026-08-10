@@ -144,6 +144,15 @@ export function createFileTreeStore(options: TreeStoreOptions) {
     setTree("dir", dir, "expanded", false)
   }
 
+  // Force a re-fetch of every directory that has already been loaded, so a
+  // manual refresh reflects files created/removed outside of the watcher.
+  const refreshLoaded = () => {
+    const loaded = Object.keys(tree.dir).filter((key) => tree.dir[key]?.loaded)
+    for (const dir of loaded) {
+      void listDir(dir, { force: true })
+    }
+  }
+
   const dirState = (input: string) => {
     const dir = options.normalizeDir(input)
     return tree.dir[dir]
@@ -169,6 +178,7 @@ export function createFileTreeStore(options: TreeStoreOptions) {
     children,
     node: (path: string) => tree.node[path],
     isLoaded: (path: string) => Boolean(tree.dir[path]?.loaded),
+    refreshLoaded,
     reset,
   }
 }

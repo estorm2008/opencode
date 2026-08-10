@@ -107,6 +107,12 @@
   margin-top: 3px;
 }
 
+[data-component="session-review-v2-sidebar-root"] [data-slot="session-review-v2-sidebar-refresh"] {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2px;
+}
+
 [data-component="session-review-v2-sidebar-root"] [data-slot="session-review-v2-sidebar-tree"] {
   flex: 1;
   min-height: 0;
