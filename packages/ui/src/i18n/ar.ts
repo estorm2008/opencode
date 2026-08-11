@@ -28,6 +28,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "الملف السابق",
   "ui.sessionReviewV2.nextFile": "الملف التالي",
   "ui.sessionReviewV2.diffView": "عرض الفروقات",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "لا توجد تغييرات متتبعة",
   "ui.sessionReviewV2.empty.noGit.description": "تتبع التغييرات في هذا المشروع وراجعها وتراجع عنها",
   "ui.sessionReviewV2.empty.noGit.action": "إنشاء مستودع Git",

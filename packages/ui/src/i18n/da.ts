@@ -29,6 +29,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Forrige fil",
   "ui.sessionReviewV2.nextFile": "Næste fil",
   "ui.sessionReviewV2.diffView": "Diffvisning",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Ingen sporede ændringer",
   "ui.sessionReviewV2.empty.noGit.description": "Spor, gennemgå og fortryd ændringer i dette projekt",
   "ui.sessionReviewV2.empty.noGit.action": "Opret et Git-repository",

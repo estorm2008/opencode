@@ -26,6 +26,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "ယခင်ဖိုင်",
   "ui.sessionReviewV2.nextFile": "နောက်ဖိုင်",
   "ui.sessionReviewV2.diffView": "ကွဲပြားသော မြင်ကွင်း",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "ခြေရာခံ အပြောင်းအလဲများ မရှိပါ။",
   "ui.sessionReviewV2.empty.noGit.description": "ဤပရောဂျက်ရှိ အပြောင်းအလဲများကို ခြေရာခံ၊ သုံးသပ်ပြီး ပြန်ဖျက်ပါ။",
   "ui.sessionReviewV2.empty.noGit.action": "Git repository ဖန်တီးပါ။",

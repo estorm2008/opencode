@@ -25,6 +25,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Файли қаблӣ",
   "ui.sessionReviewV2.nextFile": "Файли навбатӣ",
   "ui.sessionReviewV2.diffView": "Намоиши фарқият",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Тағироти пайгирӣ нест",
   "ui.sessionReviewV2.empty.noGit.description": "Тағиротро дар ин лоиҳа пайгирӣ кунед, баррасӣ кунед ва бекор кунед",
   "ui.sessionReviewV2.empty.noGit.action": "Эҷоди Git репозиторий",

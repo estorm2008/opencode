@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Ankstesnis failas",
   "ui.sessionReviewV2.nextFile": "Kitas failas",
   "ui.sessionReviewV2.diffView": "Skirtumų rodinys",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Jokių stebimų pakeitimų",
   "ui.sessionReviewV2.empty.noGit.description": "Stebėkite, peržiūrėkite ir anuliuokite šio projekto pakeitimus",
   "ui.sessionReviewV2.empty.noGit.action": "Sukurkite Git saugyklą",

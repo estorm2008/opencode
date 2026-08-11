@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Προηγούμενο αρχείο",
   "ui.sessionReviewV2.nextFile": "Επόμενο αρχείο",
   "ui.sessionReviewV2.diffView": "Διαφορική προβολή",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Δεν παρακολουθούνται αλλαγές",
   "ui.sessionReviewV2.empty.noGit.description": "Παρακολούθηση, έλεγχος και αναίρεση αλλαγών σε αυτό το έργο",
   "ui.sessionReviewV2.empty.noGit.action": "Δημιουργία αποθετηρίου Git",

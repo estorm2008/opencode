@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "فایل قبلی",
   "ui.sessionReviewV2.nextFile": "فایل بعدی",
   "ui.sessionReviewV2.diffView": "نمای تفاوت",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "هیچ تغییری ردیابی نشده است",
   "ui.sessionReviewV2.empty.noGit.description": "ردیابی، بررسی، و لغو تغییرات در این پروژه",
   "ui.sessionReviewV2.empty.noGit.action": "مخزن Git ایجاد کنید",

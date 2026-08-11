@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Skedari i mëparshëm",
   "ui.sessionReviewV2.nextFile": "Skedari tjetër",
   "ui.sessionReviewV2.diffView": "Pamja e ndryshimeve",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Nuk ka ndryshime të gjurmuara",
   "ui.sessionReviewV2.empty.noGit.description": "Gjurmoni, rishikoni dhe anuloni ndryshimet në këtë projekt",
   "ui.sessionReviewV2.empty.noGit.action": "Krijo depo Git",

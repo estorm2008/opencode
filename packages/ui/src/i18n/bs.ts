@@ -32,6 +32,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Prethodna datoteka",
   "ui.sessionReviewV2.nextFile": "Sljedeća datoteka",
   "ui.sessionReviewV2.diffView": "Prikaz diff-a",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Nema praćenih promjena",
   "ui.sessionReviewV2.empty.noGit.description": "Prati, pregledaj i poništi promjene u ovom projektu",
   "ui.sessionReviewV2.empty.noGit.action": "Kreiraj Git repozitorij",

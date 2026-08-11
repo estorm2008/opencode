@@ -28,6 +28,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Archivo anterior",
   "ui.sessionReviewV2.nextFile": "Siguiente archivo",
   "ui.sessionReviewV2.diffView": "Vista de diff",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "No hay cambios rastreados",
   "ui.sessionReviewV2.empty.noGit.description": "Rastrea, revisa y deshaz cambios en este proyecto",
   "ui.sessionReviewV2.empty.noGit.action": "Crear repositorio Git",

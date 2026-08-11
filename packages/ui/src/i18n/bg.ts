@@ -25,6 +25,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Предишен файл",
   "ui.sessionReviewV2.nextFile": "Следващ файл",
   "ui.sessionReviewV2.diffView": "Изглед на разликите",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Няма проследени промени",
   "ui.sessionReviewV2.empty.noGit.description": "Проследявайте, преглеждайте и отменяйте промените в този проект",
   "ui.sessionReviewV2.empty.noGit.action": "Създайте Git хранилище",

@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Fyrri skrá",
   "ui.sessionReviewV2.nextFile": "Næsta skrá",
   "ui.sessionReviewV2.diffView": "Mismunasýn",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Engar raktar breytingar",
   "ui.sessionReviewV2.empty.noGit.description": "Fylgstu með, skoðaðu og afturkallaðu breytingar á þessu verkefni",
   "ui.sessionReviewV2.empty.noGit.action": "Stofna Git-geymslu",

@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Əvvəlki fayl",
   "ui.sessionReviewV2.nextFile": "Növbəti fayl",
   "ui.sessionReviewV2.diffView": "Fərq görünüşü",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "İzlənən dəyişiklik yoxdur",
   "ui.sessionReviewV2.empty.noGit.description": "Bu layihədə dəyişiklikləri izləyin, nəzərdən keçirin və ləğv edin",
   "ui.sessionReviewV2.empty.noGit.action": "Git repozitoriyası yarat",

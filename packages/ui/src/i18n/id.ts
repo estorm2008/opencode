@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Berkas sebelumnya",
   "ui.sessionReviewV2.nextFile": "Berkas berikutnya",
   "ui.sessionReviewV2.diffView": "Tampilan diff",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Tidak ada perubahan yang dilacak",
   "ui.sessionReviewV2.empty.noGit.description": "Lacak, tinjau, dan urungkan perubahan di proyek ini",
   "ui.sessionReviewV2.empty.noGit.action": "Buat repositori Git",

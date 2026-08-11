@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Fișierul anterior",
   "ui.sessionReviewV2.nextFile": "Fișierul următor",
   "ui.sessionReviewV2.diffView": "Vizualizare diff",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Nicio modificare urmărită",
   "ui.sessionReviewV2.empty.noGit.description": "Urmărește, revizuiește și anulează modificările din acest proiect",
   "ui.sessionReviewV2.empty.noGit.action": "Creează depozit Git",

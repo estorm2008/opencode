@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "የቀድሞው ፋይል",
   "ui.sessionReviewV2.nextFile": "ቀጣይ ፋይል",
   "ui.sessionReviewV2.diffView": "ልዩ እይታ",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "ምንም ክትትል የሚደረግባቸው ለውጦች የሉም",
   "ui.sessionReviewV2.empty.noGit.description": "በዚህ ፕሮጀክት ላይ ለውጦችን ይከታተሉ፣ ይገምግሙ እና ይቀልብሱ",
   "ui.sessionReviewV2.empty.noGit.action": "Git ማከማቻ ፍጠር",

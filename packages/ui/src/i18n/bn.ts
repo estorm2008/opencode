@@ -26,6 +26,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "আগের ফাইল",
   "ui.sessionReviewV2.nextFile": "পরবর্তী ফাইল",
   "ui.sessionReviewV2.diffView": "ভিন্ন দৃশ্য",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "কোন ট্র্যাক করা পরিবর্তন",
   "ui.sessionReviewV2.empty.noGit.description":
     "এই প্রকল্পের পরিবর্তনগুলি ট্র্যাক করুন, পর্যালোচনা করুন এবং পূর্বাবস্থায় ফেরান৷",

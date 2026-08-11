@@ -25,6 +25,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Өмнөх файл",
   "ui.sessionReviewV2.nextFile": "Дараагийн файл",
   "ui.sessionReviewV2.diffView": "Ялгаатай харагдах байдал",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Хянагдсан өөрчлөлт байхгүй",
   "ui.sessionReviewV2.empty.noGit.description": "Энэ төслийн өөрчлөлтийг хянах, хянах, буцаах",
   "ui.sessionReviewV2.empty.noGit.action": "Git репозитор үүсгэх",

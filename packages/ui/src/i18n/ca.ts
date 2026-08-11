@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Fitxer anterior",
   "ui.sessionReviewV2.nextFile": "Fitxer següent",
   "ui.sessionReviewV2.diffView": "Vista del diff",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "No hi ha canvis de seguiment",
   "ui.sessionReviewV2.empty.noGit.description": "Feu el seguiment, reviseu i desfeu els canvis d'aquest projecte",
   "ui.sessionReviewV2.empty.noGit.action": "Crea un repositori Git",

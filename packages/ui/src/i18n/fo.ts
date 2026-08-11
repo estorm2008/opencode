@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Fyrra skrá",
   "ui.sessionReviewV2.nextFile": "Næsta skrá",
   "ui.sessionReviewV2.diffView": "Diff-sýning",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Ongar fylgdar broytingar",
   "ui.sessionReviewV2.empty.noGit.description": "Fylg við, kanna og angra broytingar í hesi verkætlan",
   "ui.sessionReviewV2.empty.noGit.action": "Stovna Git goymslu",

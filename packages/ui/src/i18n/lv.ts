@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Iepriekšējais fails",
   "ui.sessionReviewV2.nextFile": "Nākamais fails",
   "ui.sessionReviewV2.diffView": "Atšķirību skats",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Nav izmaiņu izsekošanas",
   "ui.sessionReviewV2.empty.noGit.description": "Izseko, pārskati un atsauc izmaiņas šajā projektā",
   "ui.sessionReviewV2.empty.noGit.action": "Izveidot Git repozitoriju",

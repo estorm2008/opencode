@@ -33,6 +33,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "Vorherige Datei",
   "ui.sessionReviewV2.nextFile": "Nächste Datei",
   "ui.sessionReviewV2.diffView": "Diff-Ansicht",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Keine verfolgten Änderungen",
   "ui.sessionReviewV2.empty.noGit.description":
     "Änderungen in diesem Projekt verfolgen, überprüfen und rückgängig machen",

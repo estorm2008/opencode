@@ -206,6 +206,7 @@ export const dict: Record<Keys, string> = {
   "ui.sessionReviewV2.previousFile": "Forrige fil",
   "ui.sessionReviewV2.nextFile": "Neste fil",
   "ui.sessionReviewV2.diffView": "Diffvisning",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Ingen sporede endringer",
   "ui.sessionReviewV2.empty.noGit.description": "Spor, gjennomgå og angre endringer i dette prosjektet",
   "ui.sessionReviewV2.empty.noGit.action": "Opprett et Git-depot",

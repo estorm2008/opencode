@@ -26,6 +26,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "ཧེ་མའི་ཡིག་སྣོད།",
   "ui.sessionReviewV2.nextFile": "ཡིག་སྣོད་ཤུལ་མམ།",
   "ui.sessionReviewV2.diffView": "ཁྱད་པར་མཐོང་སྣང་།",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "བརྟག་ཞིབ་འབད་ཡོད་པའི་བསྒྱུར་བཅོས་ཚུ་མེད།",
   "ui.sessionReviewV2.empty.noGit.description":
     "ལས་འགུལ་འདི་ནང་ བསྒྱུར་བཅོས་ཚུ་ བརྟག་ཞིབ་འབད་ནི་དང་ བསྐྱར་ཞིབ་འབད་ནི་ དེ་ལས་ འབད་བཤོལ་འབད་ནི།",

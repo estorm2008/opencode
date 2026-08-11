@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "පෙර ගොනුව",
   "ui.sessionReviewV2.nextFile": "ඊළඟ ගොනුව",
   "ui.sessionReviewV2.diffView": "වෙනස් දර්ශනය",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "නිරීක්ෂණය කළ වෙනස්කම් නොමැත",
   "ui.sessionReviewV2.empty.noGit.description": "මෙම ව්‍යාපෘතියේ වෙනස්කම් හඹා යන්න, සමාලෝචනය කරන්න, සහ පසුගමනය කරන්න",
   "ui.sessionReviewV2.empty.noGit.action": "Git ගබඩාවක් සාදන්න",

@@ -25,6 +25,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "ໄຟລ໌ທີ່ຜ່ານມາ",
   "ui.sessionReviewV2.nextFile": "ໄຟລ໌ຕໍ່ໄປ",
   "ui.sessionReviewV2.diffView": "ມຸມມອງຄວາມແຕກຕ່າງ",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "ບໍ່ມີການຕິດຕາມການປ່ຽນແປງ",
   "ui.sessionReviewV2.empty.noGit.description": "ຕິດຕາມ, ທົບທວນ ແລະຍົກເລີກການປ່ຽນແປງໃນໂຄງການນີ້",
   "ui.sessionReviewV2.empty.noGit.action": "ສ້າງບ່ອນເກັບຂໍ້ມູນ Git",

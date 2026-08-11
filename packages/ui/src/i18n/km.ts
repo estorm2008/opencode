@@ -26,6 +26,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "ឯកសារពីមុន",
   "ui.sessionReviewV2.nextFile": "ឯកសារបន្ទាប់",
   "ui.sessionReviewV2.diffView": "ទិដ្ឋភាពខុសគ្នា",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "គ្មានការផ្លាស់ប្តូរដែលបានតាមដានទេ។",
   "ui.sessionReviewV2.empty.noGit.description": "តាមដាន ពិនិត្យ និងបោះបង់ការផ្លាស់ប្ដូរនៅក្នុងគម្រោងនេះ។",
   "ui.sessionReviewV2.empty.noGit.action": "បង្កើតឃ្លាំង Git",

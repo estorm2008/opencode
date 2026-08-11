@@ -26,6 +26,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Előző fájl",
   "ui.sessionReviewV2.nextFile": "Következő fájl",
   "ui.sessionReviewV2.diffView": "Diff nézet",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Nincsenek nyomon követett változások",
   "ui.sessionReviewV2.empty.noGit.description":
     "Kövesse nyomon, tekintse át és vonja vissza a változtatásokat ebben a projektben",

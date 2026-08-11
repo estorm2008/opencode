@@ -29,6 +29,7 @@ export const dict = {
   "ui.sessionReviewV2.previousFile": "前のファイル",
   "ui.sessionReviewV2.nextFile": "次のファイル",
   "ui.sessionReviewV2.diffView": "差分ビュー",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "追跡中の変更はありません",
   "ui.sessionReviewV2.empty.noGit.description": "このプロジェクトの変更を追跡、レビュー、取り消しできます",
   "ui.sessionReviewV2.empty.noGit.action": "Gitリポジトリを作成",

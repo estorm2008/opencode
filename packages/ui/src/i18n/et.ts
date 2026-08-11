@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Eelmine fail",
   "ui.sessionReviewV2.nextFile": "Järgmine fail",
   "ui.sessionReviewV2.diffView": "Diffivaade",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Jälgitud muudatusi pole",
   "ui.sessionReviewV2.empty.noGit.description": "Selle projekti muudatuste jälgimine, ülevaatamine ja tagasivõtmine",
   "ui.sessionReviewV2.empty.noGit.action": "Loo Git hoidla",

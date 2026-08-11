@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "Նախորդ ֆայլ",
   "ui.sessionReviewV2.nextFile": "Հաջորդ ֆայլ",
   "ui.sessionReviewV2.diffView": "Տարբերական տեսք",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "Չկան հետեւված փոփոխություններ",
   "ui.sessionReviewV2.empty.noGit.description": "Հետեւել, վերանայել և հետարկել այս նախագծի փոփոխությունները",
   "ui.sessionReviewV2.empty.noGit.action": "Ստեղծել Git պահոց",

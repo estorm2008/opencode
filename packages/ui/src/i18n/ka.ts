@@ -25,6 +25,7 @@ export const dict: Record<string, string> = {
   "ui.sessionReviewV2.previousFile": "წინა ფაილი",
   "ui.sessionReviewV2.nextFile": "შემდეგი ფაილი",
   "ui.sessionReviewV2.diffView": "განსხვავებები",
+  "ui.sessionReviewV2.refreshFiles": "Refresh files",
   "ui.sessionReviewV2.empty.noGit.title": "ცვლილებებს თვალყურის დევნება არ აქვს",
   "ui.sessionReviewV2.empty.noGit.description": "თვალყური ადევნეთ, გადახედეთ და გააუქმეთ ცვლილებები ამ პროექტში",
   "ui.sessionReviewV2.empty.noGit.action": "შექმენით Git საცავი",
